@@ -4,14 +4,25 @@
       "ramenShopName": "らぁめん 満来",
       "photo": "https://firebasestorage.googleapis.com/v0/b/potoro-5fe55.appspot.com/o/ramen%2F%E3%82%89%E3%81%81%E3%82%81%E3%82%93%20%E6%BA%80%E6%9D%A5.png?alt=media&token=8cb6a38f-8e25-452c-959b-c60e1e20a9f0",
       "author": "Zem",
+      "description": "Best Char Siu ramen in Tokyo. The meat is satisfactory and huge.",
+      "rating": 5,
       "id": 1
     },
-{
+    {
       "ramenShopName": "麺屋海神について",
       "photo": "https://firebasestorage.googleapis.com/v0/b/potoro-5fe55.appspot.com/o/ramen%2F%E9%BA%BA%E5%B1%8B%E6%B5%B7%E7%A5%9E%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.png?alt=media&token=a9680ca9-ac4b-4a80-bf4e-3d047f7ab581",
+      "description": "Compared with other ramen, this one boasts mild flavor. If one has little appetite for strong flavor; then this is the place to go.",
       "author": "Zem",
+      "rating": 4,
       "id": 2
+    },
+    {
+      "id": "7be6",
+      "ramenShopName": "山下公園 ラーメン",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/potoro-5fe55.appspot.com/o/ramen%2F%E5%B1%B1%E4%B8%8B%E5%85%AC%E5%9C%92%20%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3.png?alt=media&token=30776180-d9dc-420e-9071-fa0ba10458f4",
+      "description": "I always love ramen. This place is definitely for egg lovers cuz they serve smoked dove eggs with a tasty ajitsuke tamago. They also have potstickers. Dun forget to have a ramen when you visit Taichung.",
+      "rating": 5,
+      "author": "anonymous"
     }
-
   ]
 }
