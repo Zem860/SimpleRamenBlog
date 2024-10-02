@@ -8,6 +8,7 @@ import Navbar from './Navbar';
 import Menu from './Menu';
 import Add from './Add';
 import RamenDetails from './RamenDetails';
+import NotFound from './NotFound';
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
         <Route exact path="/menu" element={<Menu/>}/>
         <Route exact path="/add" element={<Add/>}/>
         <Route exact path="/ramen/:id" element={<RamenDetails/>}/>
+        <Route exact path="*" element={<NotFound/>}/>
 
       </Routes>
       
