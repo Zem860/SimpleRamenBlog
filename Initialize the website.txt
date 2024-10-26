@@ -1,7 +1,20 @@
+Initialize folder(not recommend now;just use vite)
+go terminal
+npx create-react-app xxxxxxx
+
+
 Initialize the website
 
 use 2 terminal windows
 
 npm run start
 
-npx json-server --watch data/db.json --port 8000
+npx json-server --watch data/db.json --port 8000(它會自動抓3000會和我的react 預設打架)
+使用json server會在本地的伺服器監控data/db.json的變化(所以在資料夾裡面要開一個/data/db.json)
+
+adding information
+
+vs extension: Simple React Snippets
+go to setting emmet include language {javascript:react}
+
+

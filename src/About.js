@@ -6,14 +6,11 @@ const About = () => {
           <div className="container text-center">
             <h1>About Ramen</h1>
             <img
-              className="mx-3"
-              src="https://firebasestorage.googleapis.com/v0/b/potoro-5fe55.appspot.com/o/ramen%2Fdigi.png?alt=media&token=02ec77b6-03ab-49ca-bc32-cd544a6baac4"
-              alt=""
-            />
-            <img
-              className="mx-3"
-              src="https://firebasestorage.googleapis.com/v0/b/potoro-5fe55.appspot.com/o/ramen%2Fnaru.png?alt=media&token=62bab20c-93cc-4e1a-b5fc-d3a32616d025"
-              alt=""
+              className=" img-fluid"
+              src="https://firebasestorage.googleapis.com/v0/b/potoro-5fe55.appspot.com/o/ramen%2F79.jpg?alt=media&token=811eef74-ebe2-4a09-afd3-06ec6e57bb45"
+              alt="vending machine of different ramens"
+              style={{ width: "300px" }} // 設置寬度以縮小圖片
+
             />
           </div>
         </div>

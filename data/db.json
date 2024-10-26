@@ -6,7 +6,7 @@
       "author": "Zem",
       "description": "Best Char Siu ramen in Tokyo. The meat is satisfactory and huge.",
       "rating": 5,
-      "id": 1
+      "id": "1"
     },
     {
       "ramenShopName": "麺屋海神について",
@@ -14,7 +14,7 @@
       "description": "Compared with other ramen, this one boasts mild flavor. If one has little appetite for strong flavor; then this is the place to go.",
       "author": "Zem",
       "rating": 4,
-      "id": 2
+      "id": "2"
     },
     {
       "id": "7be6",
@@ -22,6 +22,14 @@
       "photo": "https://firebasestorage.googleapis.com/v0/b/potoro-5fe55.appspot.com/o/ramen%2F%E5%B1%B1%E4%B8%8B%E5%85%AC%E5%9C%92%20%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3.png?alt=media&token=30776180-d9dc-420e-9071-fa0ba10458f4",
       "description": "I always love ramen. This place is definitely for egg lovers cuz they serve smoked dove eggs with a tasty ajitsuke tamago. They also have potstickers. Dun forget to have a ramen when you visit Taichung.",
       "rating": 5,
+      "author": "anonymous"
+    },
+    {
+      "id": "89b6",
+      "ramenShopName": "鹿鳴商店",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/potoro-5fe55.appspot.com/o/ramen%2F%E9%B9%BF%E9%B3%B4%E5%95%86%E5%BA%97.png?alt=media&token=ad8cfd28-f66a-44e5-9578-dc45422ff8eb",
+      "description": "It's not very Local but the ramen tastes ok. Best thing is they offer customization; the extra points for eating ramen in Taiwan.",
+      "rating": 4,
       "author": "anonymous"
     }
   ]
