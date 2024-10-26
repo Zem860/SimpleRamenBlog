@@ -1,3 +1,7 @@
+本專案僅用於個人學習和測試用途，所有內容均為非商業用途。
+
+Disclaimer (English) This project is intended solely for personal learning and testing purposes, and all content is for non-commercial use.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
