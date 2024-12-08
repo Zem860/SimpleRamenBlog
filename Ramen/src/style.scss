@@ -1,0 +1,57 @@
+* {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .detailLink {
+    text-decoration: none;
+    .card {
+      &:hover {
+        box-shadow: 10px 5px 5px teal;
+      }
+    }
+  }
+  
+  .detailThing {
+    p, img, button, h1, h2 {
+      margin-bottom: 3rem;
+    }
+    img{
+      width: 50%;
+      height: 50%;
+    }
+  }
+  nav {
+    background-color: orange;
+    width: 100%;
+    .navbar-items {
+      color: rgb(0, 63, 156);
+      display: flex;
+      justify-content: space-between;
+      margin-right: 5rem;
+      .homeTag {
+        .nav-link {
+          padding: 1rem;
+          &:hover {
+            cursor: pointer;
+            background-color: aqua;
+          }
+        }
+      }
+      .items {
+        display: flex;
+        justify-content: space-around;
+        .nav-link {
+          padding: 1rem;
+  
+          &:hover {
+            cursor: pointer;
+            background-color: aqua;
+          }
+        }
+      }
+    }
+  }
+  
